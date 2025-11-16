@@ -1,6 +1,6 @@
-// Joshi - Working JavaScript with QR codes and Camera
+// Taj - Working JavaScript with QR codes and Camera
 
-class JoshiApp{
+class TajApp{
     constructor() {
         this.data = {
             products: [
@@ -56,7 +56,7 @@ class JoshiApp{
                     }
                 },
                 {
-                    id: "Joshi-BRA-SYR-200-004",
+                    id: "-BRA-SYR-200-004",
                     name: " Brahmi Memory Syrup 200ml",
                     type: "Syrup",
                     price: "₹699",
@@ -84,7 +84,7 @@ class JoshiApp{
     }
 
     async init() {
-        console.log('🌿 BHOOMI App Starting...');
+        console.log('🌿 Taj App Starting...');
 
         // Show loading for 2 seconds
         setTimeout(() => {
@@ -732,6 +732,6 @@ function printQR() {
 
 // Initialize app when DOM is loaded
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('🚀 Joshi App Loading...');
-    app = new JoshiApp();
+    console.log('🚀 Taj App Loading...');
+    app = new TajApp();
 });
