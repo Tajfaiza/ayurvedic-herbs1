@@ -1,5 +1,5 @@
 # ayurvedic-herbs1🌿 
-Joshi: Blockchain for Herbal Origin, Observation, Mapping & Integrity
+Taj: Blockchain for Herbal Origin, Observation, Mapping & Integrity
 
 
 🎯 What’s Working Great
@@ -27,7 +27,7 @@ Joshi: Blockchain for Herbal Origin, Observation, Mapping & Integrity
 🌐 Live Demo
 
 Try it out here:  
-
+https://github.com/Tajfaiza/ayurvedic-herbs1.git
 
  Getting Started
 
@@ -38,7 +38,4 @@ Try it out here:
 5. Verify product authenticity instantly and confidently  
 
 
-🏆 Joshi is ready to revolutionize Ayurvedic herb traceability for the Mini project 2025!  
-
-
-
+🏆 Taj is ready to revolutionize Ayurvedic herb traceability for the Mini project 2025!  
