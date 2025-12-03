@@ -1,4 +1,4 @@
-# ayurvedic-herbs1🌿 
+# Tajayurvedic-herbs1🌿 
 Taj: Blockchain for Herbal Origin, Observation, Mapping & Integrity
 
 
